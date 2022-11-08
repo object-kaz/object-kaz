@@ -1,18 +1,31 @@
-###  继续加油💪🏻
+Hi, I'm Kaz, a fighting FE engineer.
 
-<!--
-**object-kaz/object-kaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
++ 🎓 Undergraduate @hubu
++ 🔆 General Leader @hubusugon
++ ❤️ Code, Minecraft, Walk and Music
++ 🏠[Blog](https://www.objectkaz.cn/)
++ 🦜[Yuque](https://www.yuque.com/objectkaz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=282c34)
+![](https://img.shields.io/badge/-Webpack-2b3a42?style=flat-square&logo=WEBPACK&logoColor=white)
+![](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-express-eeeeee?style=flat-square&logo=express&logoColor=black)
+![](https://img.shields.io/badge/-koa-33333d?style=flat-square&logo=koa&logoColor=white)
+![](https://img.shields.io/badge/-Nest.js-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+
+### Work Experience
+
++ 2022.6-2022.10 @baidu-Business platform-FE-intern
++ 2022.10 @bytedance-Xigua Video-FE-engineer(Offer)
+
+### Status
 
 ![](https://github-readme-stats.vercel.app/api/?username=object-kaz&show_owner=true)
