@@ -24,7 +24,7 @@ Hi, I'm Kaz, a fighting FE engineer.
 ### Work Experience
 
 + 2022.6-2022.10 [@baidu](https://github.com/baidu), Business Platform, FE Intern
-+ 2022.11 [@bytedance](https://github.com/bytedance), Xigua Video, FE Engineer(Offer)
++ 2023.2-Today [@bytedance](https://github.com/bytedance), Douyin, FE Engineer
 
 ### Status
 
